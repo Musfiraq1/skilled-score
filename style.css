@@ -287,7 +287,8 @@
   font-size: 20px;
   font-weight: bold;
 }
-.paragraph9{
+
+.paragraph9 {
   position: absolute;
   top: 500px;
   left: 80px;
@@ -295,7 +296,8 @@
   font-size: 16px;
   font-weight: bold;
 }
-.paragraph10{
+
+.paragraph10 {
   position: absolute;
   top: 530px;
   left: 80px;
@@ -303,49 +305,131 @@
   font-size: 16px;
   font-weight: bold;
 }
-.main-div9{
- background-color: #F2F3F7;
- width: 1000;
+
+.main-div9 {
+  background-color: #F2F3F7;
+  width: 1000;
 }
-.heading4{
+
+.heading4 {
   text-align: center;
   padding-top: 50px;
   font-size: 44px;
 }
-.paragraph11{
-text-align: center;
-font-size: 20px;
+
+.paragraph11 {
+  text-align: center;
+  font-size: 20px;
 }
-.sub-div10{
+
+.sub-div10 {
   display: flex;
   justify-content: center;
 }
-.img8{
+
+.img8 {
   width: 180px;
   height: 70px;
   margin-top: 150px;
 }
-.img9{
+
+.img9 {
   margin-top: 100px;
   width: 200px;
   height: 150px;
 }
-.paragraph12{
+
+.paragraph12 {
   text-align: center;
 }
-.main-div10{
+
+.main-div10 {
   display: flex;
   justify-content: center;
   background-color: white;
-  gap: 100px
-  ;
+  gap: 100px;
 }
-.heading5{
+
+.heading5 {
   margin-top: 50px;
 }
-.paragraph13{
+
+.paragraph13 {
   margin-top: 50px;
 }
-.img10{
+
+.img10 {
   margin-top: 50px;
 }
+
+.main-button {
+  height: 40px;
+  width: 250px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.main-div11{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  gap: 80px;
+}
+.li-points{
+  padding-top: 40px;
+}
+.img11{
+  margin-top: 100px;
+  width: 450px
+}
+.main-divlast{
+  background-image: linear-gradient(90deg, #08f, #2d4cbe, #42276d);
+  width: 1000px;
+  /* height: 300px; */
+  margin-top: 150px;
+  margin-left: 170px;
+  color: white;
+}
+.heading6{
+  text-align: center;
+  padding-top: 40px;
+  font-size: 3rem;
+}
+.heading7{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 1.5rem;
+}
+.email2{
+  width: 24rem;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 280px;
+  margin-top: 50px;
+}
+.BUTTON2{
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 60Px;
+  border: 1px solid black;
+  border-radius: 9px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+.subdiv-last{
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 70px;
+  padding-bottom: 50px;
+  position: relative;
+}
+.lastp{
+ margin-left: -70px;
+}
+/* main end */
